@@ -1,0 +1,15 @@
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\bin\Debug\net8.0\Module02.exe
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\bin\Debug\net8.0\Module02.deps.json
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\bin\Debug\net8.0\Module02.runtimeconfig.json
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\bin\Debug\net8.0\Module02.dll
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\bin\Debug\net8.0\Module02.pdb
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.AssemblyInfoInputs.cache
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.AssemblyInfo.cs
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.sourcelink.json
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.dll
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\refint\Module02.dll
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.pdb
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\Module02.genruntimeconfig.cache
+C:\Users\jeanc\Desktop\Youtube2025\Csharp\Module02\obj\Debug\net8.0\ref\Module02.dll
